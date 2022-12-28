@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fe7e629-e1f4-47d3-a9d5-cd2e9eca16c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados/Emails.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados/Lojas.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_dados/Vendas.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/logo_pandas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/logo_python.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +37,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Documentos/Projetos_para_Github/Automacao_de_Processos_Indicadores"
+    "last_opened_file_path": "D:/Documentos/Programacao/Python"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documentos\Projetos_para_Github\Automacao_de_Processos_Indicadores\base_dados" />
+      <recent name="D:\Documentos\Projetos_para_Github\Automacao_de_Processos_Indicadores" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Automacao_de_Processos_Indicadores" />
@@ -67,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672262755179</updated>
       <workItem from="1672262761651" duration="224000" />
-      <workItem from="1672263020293" duration="317000" />
+      <workItem from="1672263020293" duration="2167000" />
     </task>
     <servers />
   </component>
