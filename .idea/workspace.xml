@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fe7e629-e1f4-47d3-a9d5-cd2e9eca16c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/base_dados/indicadores_lojas/Emails.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Automacao_de_Processos_Indicadores.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Automacao_de_Processos_Indicadores.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/automacao_indicadores.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/automacao_indicadores.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672262755179</updated>
       <workItem from="1672262761651" duration="224000" />
-      <workItem from="1672263020293" duration="6891000" />
+      <workItem from="1672263020293" duration="7837000" />
     </task>
     <servers />
   </component>
