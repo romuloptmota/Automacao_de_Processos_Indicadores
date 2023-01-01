@@ -1,4 +1,5 @@
-# Automação de Indicadores <img src="imagens/logo_python.png" width="30" height="30"> <img src="imagens/logo_pandas.png" width="40" height="40">
+# Automação de Indicadores 
+<img src="imagens/logo_python.png" width="30" height="30"> <img src="imagens/logo_pandas.png" width="40" height="40">
 
 ### Descrição:
 
