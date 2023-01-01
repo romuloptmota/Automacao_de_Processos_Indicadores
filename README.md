@@ -24,4 +24,4 @@ Temos os dados de uma grande rede lojas com 25 lojas espalhadas por todo Brasil.
 
 
 ### Exemplo One Page:
-<img src="imagens/onepage_exemplo.png" width="800">
+<img src="imagens/onepage_exemplo.png" width="600">

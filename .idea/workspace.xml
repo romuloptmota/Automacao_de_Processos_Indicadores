@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fe7e629-e1f4-47d3-a9d5-cd2e9eca16c6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/automacao_indicadores.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/automacao_indicadores.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Documentos/Projetos_para_Github/Automacao_de_Processos_Indicadores/base_dados/indicadores_lojas"
+    "last_opened_file_path": "D:/Documentos/Programacao/Python"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -74,7 +74,10 @@
       <option name="presentableId" value="Default" />
       <updated>1672262755179</updated>
       <workItem from="1672262761651" duration="224000" />
-      <workItem from="1672263020293" duration="7837000" />
+      <workItem from="1672263020293" duration="8004000" />
+      <workItem from="1672335505873" duration="69000" />
+      <workItem from="1672451816120" duration="1187000" />
+      <workItem from="1672469156220" duration="134000" />
     </task>
     <servers />
   </component>
